@@ -84,3 +84,133 @@ width: 172px;
 height: 52px;
 
 }
+.payments{
+    padding-top: 140px;
+}
+.payments-title{
+    font-family: var(--font-family);
+font-weight: 700;
+font-size: 32px;
+color: #244d4d;
+text-align: center;
+}
+.payments-list{
+    display: flex;
+    padding-top: 40px;
+    padding-bottom: 140px;
+    justify-content: space-between;
+}
+.about{
+    background-color: antiquewhite;
+    padding: 300px;
+}
+.bestsellers{
+    padding-top: 140px;
+}
+.bestsellers-title{
+    font-family: var(--second-family);
+font-weight: 700;
+font-size: 32px;
+line-height: 162%;
+color: #242424;
+}
+.bestsellers-box{
+    display: flex;
+}
+.bestsellers-text{
+    font-family: var(--font-family);
+font-weight: 400;
+font-size: 20px;
+line-height: 135%;
+color: #383738;
+max-width: 730px;
+padding-top: 20px;
+}
+.slide-button{
+    display: flex;
+    margin-left: auto;
+    width: 40px;
+    height: 40px;
+    background: transparent;
+    border: none;
+}
+
+.futures-list{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 80px;
+}
+.futures-title{
+  font-family: var(--font-family);
+font-weight: 500;
+font-size: 20px;
+line-height: 135%;
+color: #242424;  
+padding-bottom: 20px;
+}
+.futures-box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.futures-text{
+    font-family: var(--font-family);
+font-weight: 500;
+font-size: 24px;
+line-height: 129%;
+color: #154444;
+}
+.futures-button-recommendation{
+    padding-top: 30px;
+    background-color: transparent;
+    border: none;
+    padding-bottom: 20px;
+}
+.futures-item-right{
+    margin-left: auto;
+}
+.futures-button{
+ display: block;
+ margin: 0 auto;
+ color: #fff;
+ background-color: #244d4d;
+ width: 78px;
+ height: 32px;
+ border: none;
+ margin-bottom: 27px;
+}
+
+.all-furniture{
+    padding: 200px;
+    background-color: aliceblue;
+}
+
+.futures{
+    padding: 200px;
+    background-color: azure;
+}
+
+.mailing{
+    padding-top: 68px;
+    background-color: #f4f6f6;
+}
+.mailing-title{
+    display: flex;
+    justify-content: center;
+    width: 460px;
+    font-family: var(--second-family);
+font-weight: 700;
+font-size: 32px;
+line-height: 150%;
+text-align: center;
+color: #222;
+}
+.mailing-text{
+    font-family: var(--font-family);
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+text-align: center;
+color: #222;
+padding-top: 20px;
+}
