@@ -1,0 +1,86 @@
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.header{
+    padding-top: 48px;
+}
+.header-logo{
+    font-family: var(--second-family);
+font-weight: 700;
+font-size: 24px;
+color: #244d4d;
+text-decoration: none;
+}
+.header-list{
+    display: flex;
+    gap: 50px;
+
+}
+.header-menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.burger-menu{
+    display: flex;
+    gap: 30px;
+}
+.header-link{
+    font-family: var(--font-family);
+font-weight: 400;
+font-size: 16px;
+color: #161616;
+text-decoration: none;
+}
+.burger-menu>button{
+    display: block;
+    background: transparent;
+    border: none;
+    width: 24px;
+    height: 24px;
+}
+.furniture{
+    padding-top: 26px;
+}
+.title{
+    font-family: var(--second-family);
+font-weight: 700;
+font-size: 56px;
+color: #fff;
+max-width: 650px;
+padding-top: 101px;
+padding-bottom: 20px;
+ margin: 0 auto;
+}
+.furniture-text{
+    font-family: var(--font-family);
+font-weight: 400;
+font-size: 20px;
+line-height: 125%;
+color: #fff;
+max-width: 650px;
+margin: 0 auto;
+padding-bottom: 35px;
+}
+.box-furniture{
+    display: flex;
+   
+}
+.box-furniture-right{
+    width: 100%;
+     background-color: #154444;
+
+}
+.furniture-button {
+    display: block;
+    margin: 0 auto;
+    font-family: var(--font-family);
+font-weight: 400;
+font-size: 20px;
+line-height: 125%;
+color: #154444;
+width: 172px;
+height: 52px;
+
+}
